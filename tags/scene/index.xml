@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Saurabh Singh</title>
+    <link>https://singhsaurabh0913.github.io/Saurabh_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Saurabh Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://singhsaurabh0913.github.io/Saurabh_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A tool that estimate house price</title>
+      <link>https://singhsaurabh0913.github.io/Saurabh_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://singhsaurabh0913.github.io/Saurabh_Portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates price of house in Bangaore to help the seller to negotiate price with customer. Downloaded the past data from kaggle. Build a model using sklearn and linear regression. Write a python flask server that uses the saved model to serve http requests. Build the website in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.</description>
+    </item>
+    
+  </channel>
+</rss>
